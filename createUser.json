@@ -6,45 +6,9 @@
     "method": "POST",
     "header": [
      {
-      "key": "Accept-Encoding",
-      "value": [
-       "gzip, deflate, br"
-      ]
-     },
-     {
-      "key": "Connection",
-      "value": [
-       "keep-alive"
-      ]
-     },
-     {
-      "key": "Content-Length",
-      "value": [
-       "42"
-      ]
-     },
-     {
       "key": "Content-Type",
       "value": [
        "application/json"
-      ]
-     },
-     {
-      "key": "User-Agent",
-      "value": [
-       "PostmanRuntime/7.28.2"
-      ]
-     },
-     {
-      "key": "Accept",
-      "value": [
-       "*/*"
-      ]
-     },
-     {
-      "key": "Postman-Token",
-      "value": [
-       "0aef524b-2aa7-4440-8f41-ab49174bd1e2"
       ]
      }
     ],

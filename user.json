@@ -4,43 +4,12 @@
    "name": "user",
    "request": {
     "method": "GET",
-    "header": [
-     {
-      "key": "User-Agent",
-      "value": [
-       "PostmanRuntime/7.28.2"
-      ]
-     },
-     {
-      "key": "Accept",
-      "value": [
-       "*/*"
-      ]
-     },
-     {
-      "key": "Postman-Token",
-      "value": [
-       "ac3cc99b-e51f-445e-a65a-3a58ea8645a6"
-      ]
-     },
-     {
-      "key": "Accept-Encoding",
-      "value": [
-       "gzip, deflate, br"
-      ]
-     },
-     {
-      "key": "Connection",
-      "value": [
-       "keep-alive"
-      ]
-     }
-    ],
+    "header": null,
     "body": {
      "raw": ""
     },
     "url": {
-     "raw": "user",
+     "raw": "http://localhost:1323",
      "protocol": "http",
      "host": "localhost",
      "port": "1323",

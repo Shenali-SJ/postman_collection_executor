@@ -41,7 +41,7 @@ func executeTemplate(c echo.Context) error {
 		return err
 	}
 
-	populateTemplate(*templateProfile, "createUser.json")
+	populateTemplate(*templateProfile, "user.json")
 
 	return c.JSON(http.StatusOK, templateProfile)
 }

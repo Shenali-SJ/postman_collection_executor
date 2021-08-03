@@ -4,38 +4,7 @@
    "name": "basePath",
    "request": {
     "method": "GET",
-    "header": [
-     {
-      "key": "User-Agent",
-      "value": [
-       "PostmanRuntime/7.28.2"
-      ]
-     },
-     {
-      "key": "Accept",
-      "value": [
-       "*/*"
-      ]
-     },
-     {
-      "key": "Postman-Token",
-      "value": [
-       "8e94ee51-3ff7-48a1-ad09-21a3ddc23bc4"
-      ]
-     },
-     {
-      "key": "Accept-Encoding",
-      "value": [
-       "gzip, deflate, br"
-      ]
-     },
-     {
-      "key": "Connection",
-      "value": [
-       "keep-alive"
-      ]
-     }
-    ],
+    "header": null,
     "body": {
      "raw": ""
     },
